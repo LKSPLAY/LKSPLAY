@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR limegreen] [B] FILMES [/B] [/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601409.us.archive.org/2/items/filmes_20200204/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/LKSPLAY/LKSPLAY/master/TEST</externallink>
 <fanart></fanart>
 <info>
@@ -15,14 +15,29 @@
 
 <channels>
 <channel>
-<name>[COLOR limegreen] [B] SERIES [/B] [/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://bit.ly/37YhcxM</externallink>
+<name>[COLOR blue] [B] SERIES [/B] [/COLOR]</name>
+<thumbnail>https://archive.org/download/filmes_20200204/SERIES.png</thumbnail>
+<externallink>https://</externallink>
 <fanart></fanart>
 <info>
 
 
 [COLOR white] [B]SERIES DUBLADAS EM HD[/B] [/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow] [B] DESENHOS [/B] [/COLOR]</name>
+<thumbnail>https://archive.org/download/filmes_20200204/DESENHOS.png</thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR white] [B]DESENHOS ANIMADOS[/B] [/COLOR]</info>
 </channel>
 </channels>
 
