@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR limegreen] [B]FILMES[/B] [/COLOR]</name>
+<name>[COLOR limegreen] [B] FILMES [/B] [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://bit.ly/37YhcxM</externallink>
 <fanart></fanart>
@@ -8,6 +8,21 @@
 
 
 [COLOR white] [B]FILMES DUBLADOS EM HD[/B] [/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR limegreen] [B] SÉRIES [/B] [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://bit.ly/37YhcxM</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR white] [B]SERIES DUBLADAS EM HD[/B] [/COLOR]</info>
 </channel>
 </channels>
 
