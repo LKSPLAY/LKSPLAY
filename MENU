@@ -7,7 +7,7 @@
 <info>
 
 
-[COLOR white]|[/COLOR] [COLOR limegreen] BEM-VINDO AO ADDON LKS PLAY | [/COLOR] [COLOR blue] ASSISTA OS MELHORES FILMES E SÉRIES AQUI! [/COLOR] [COLOR white]|[/COLOR]</info>
+[COLOR white]|[/COLOR] [COLOR white] [B] BEM-VINDO AO ADDON [/B] [/COLOR] [COLOR limegreen] LKS [/COLOR] [COLOR blue] PLAY [/COLOR] [COLOR white]|[/COLOR] [/COLOR] [COLOR blue] ASSISTA OS MELHORES FILMES E SÉRIES AQUI! [/COLOR] [COLOR white]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR limegreen]|||[/COLOR] [COLOR blue]ENTRE AQUI[/COLOR] [COLOR limegreen]|||[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+[COLOR limegreen]|[/COLOR] [COLOR blue]ADDON CRIADO POR LUCAS, SEM FIM LUCRATIVOS.[/COLOR] [COLOR limegreen]|[/COLOR]</info>
 </channel>
 </channels>
 
