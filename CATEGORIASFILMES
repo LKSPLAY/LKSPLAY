@@ -1,11 +1,104 @@
-<item>
-<title>[COLOR limegreen] [B]MALEVOLA HD[/B] [/COLOR]</title>
-<link>https://tinyurl.com/MLVDB</link>
+<channels>
+<channel>
+<name>[COLOR limegreen] [B] LANÇAMENTOS [/B] [/COLOR]</name>
 <thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/LKSPLAY/LKSPLAY/master/TEST</externallink>
+<fanart></fanart>
 <info>
 
 
-[B] [COLOR white] Test [/COLOR] [/B]</info>
-</item>
+[COLOR white] [B]FILMES LANÇAMENTOS DUBLADOS EM HD[/B] [/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow] [B] ANIMAÇÃO [/B] [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR white] [B]FILMES DE ANIMAÇÃO DUBLADOS EM HD[/B] [/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR blue] [B] AÇÃO [/B] [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR white] [B]FILMES DE AÇÃO DUBLADOS EM HD[/B] [/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow] [B] AVENTURA [/B] [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR white] [B]FILMES DE AVENTURA DUBLADOS EM HD[/B] [/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow] [B] COMÉDIA [/B] [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR white] [B]FILMES DE COMÉDIA DUBLADOS EM HD[/B] [/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow] [B] FICÇÃO CIENTÍFICA [/B] [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR white] [B]FILMES DE FICÇÃO CIENTÍFICA DUBLADOS EM HD[/B] [/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow] [B] SUSPENSE [/B] [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR white] [B]FILMES DE SUSPENSE DUBLADOS EM HD[/B] [/COLOR]</info>
+</channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
