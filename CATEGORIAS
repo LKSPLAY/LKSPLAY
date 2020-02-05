@@ -15,9 +15,9 @@
 
 <channels>
 <channel>
-<name>[COLOR blue] [B]SERIES[/B] [/COLOR] [COLOR red] [B]EM BREVE![/B] [/COLOR]</name>
+<name>[COLOR blue] [B]SERIES[/B] [/COLOR]</name>
 <thumbnail>https://archive.org/download/filmes_20200204/SERIES.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/LKSPLAY/LKSPLAY/master/SERIES</externallink>
 <fanart>https://archive.org/download/tv-series/tv-series.jpg</fanart>
 <info>
 
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow] [B] DESENHOS [/B] [/COLOR]</name>
+<name>[COLOR yellow] [B]DESENHOS[/B] [/COLOR]</name>
 <thumbnail>https://archive.org/download/filmes_20200204/DESENHOS.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801500.us.archive.org/34/items/tv-series/desenhos%20animados.jpg</fanart>
