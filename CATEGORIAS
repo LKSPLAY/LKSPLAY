@@ -3,7 +3,7 @@
 <name>[COLOR limegreen] [B] FILMES [/B] [/COLOR]</name>
 <thumbnail>https://ia601409.us.archive.org/2/items/filmes_20200204/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/LKSPLAY/LKSPLAY/master/TEST</externallink>
-<fanart></fanart>
+<fanart>https://ia801500.us.archive.org/34/items/tv-series/tv-filmes.jpg</fanart>
 <info>
 
 
@@ -15,10 +15,10 @@
 
 <channels>
 <channel>
-<name>[COLOR blue] [B] SERIES [/B] [/COLOR]</name>
+<name>[COLOR blue] [B]SERIES[/B] [/COLOR] [COLOR red] [B]EM BREVE![/B] [/COLOR]</name>
 <thumbnail>https://archive.org/download/filmes_20200204/SERIES.png</thumbnail>
 <externallink>https://</externallink>
-<fanart></fanart>
+<fanart>https://archive.org/download/tv-series/tv-series.jpg</fanart>
 <info>
 
 
@@ -33,7 +33,7 @@
 <name>[COLOR yellow] [B] DESENHOS [/B] [/COLOR]</name>
 <thumbnail>https://archive.org/download/filmes_20200204/DESENHOS.png</thumbnail>
 <externallink>https://</externallink>
-<fanart></fanart>
+<fanart>https://ia801500.us.archive.org/34/items/tv-series/desenhos%20animados.jpg</fanart>
 <info>
 
 
